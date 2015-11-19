@@ -74,6 +74,9 @@ Track all personal contacts in Prosperworks, including sales, student, teacher, 
 ### English
 Every document must have written in English, unless it needs to be in antoher language.
 
+### Project Management tool
+Use Trello to track all your projects and tasks.
+
 ## Circles
 ### Junior Education Circle - Tojas
 
