@@ -10,12 +10,58 @@
 ### Secretary - Tojas
 
 ### Legal - Barbi
-#### Purpose
-Secure the legal stability of the company
+Purpose:
+- Secure the legal stability of the company
 
-#### Domain
-Which contract is shared with tho owners
-Approve the final form of the contracts
+Accountabilities:
+
+Domains:
+- Which contract is shared with tho owners
+- Approve the final form of the contracts
+
+### Admin - Éva, Barbi
+Purpose:
+- 
+
+Accountabilities:
+ - 
+
+Domains:
+ - 
+
+### Sales and Biz.Dev. - Barbi, Kristóf, Peták
+Purpose:
+- 
+
+Accountabilities:
+ - Building partnerships
+ - Making new business opportunities
+ - Handling sales pipeline
+
+Domains:
+ - 
+
+### Finance - Barbi
+Purpose:
+- 
+
+Accountabilities:
+ - 
+
+Domains:
+ - 
+ 
+Board and Strategy - Kristóf, Peták, Barbi, Tojás
+Purpose:
+- Great and profitable company
+- Happy shareholders
+
+Accountabilities:
+ - Approving high level contracts
+
+Domains:
+ - Strategy
+
 
 ## Policies
 
