@@ -10,6 +10,14 @@
 
 ### Secretary - Tojas
 
+### Legal - Barbi
+#### Purpose
+Secure the legal stability of the company
+
+#### Domain
+Which contract is shared with tho owners
+Approve the final form of the contracts
+
 ## Policies
 
 ### Greenfox Governance
