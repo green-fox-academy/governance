@@ -13,6 +13,9 @@
 ## Policies
 
 ### Greenfox Governance
-The governance is documented on GitHub: https://github.com/greenfox-academy/governance/
+The governance is documented on GitHub in English: https://github.com/greenfox-academy/governance/
+
+### English
+Every document must have written in English, unless it needs to be in antoher language.
 
 ## Circles
