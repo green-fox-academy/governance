@@ -3,7 +3,6 @@
 ## Purpose
 
 ## Roles
-
 ### Lead Link - Barbi
 
 ### Facilitator - Petak
@@ -25,5 +24,9 @@ The governance is documented on GitHub in English: https://github.com/greenfox-a
 
 ### English
 Every document must have written in English, unless it needs to be in antoher language.
+
+### Circle
+### Junior Education Circle - Tojas
+
 
 ## Circles
