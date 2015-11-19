@@ -6,9 +6,9 @@
 
 ### Lead Link - Barbi
 
-### Facilitator - 
+### Facilitator - Petak
 
-### Secretary -
+### Secretary - Tojas
 
 ## Policies
 
