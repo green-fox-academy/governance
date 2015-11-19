@@ -12,4 +12,7 @@
 
 ## Policies
 
+### Greenfox Governance
+The governance is documented on GitHub: https://github.com/greenfox-academy/governance/
+
 ## Circles
