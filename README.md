@@ -57,7 +57,7 @@ Purpose:
 - Happy shareholders
 
 Accountabilities:
- - 
+ - Approving high level contracts
 
 Domains:
  - Strategy
