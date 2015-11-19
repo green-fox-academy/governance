@@ -22,6 +22,9 @@ Approve the final form of the contracts
 ### Greenfox Governance
 The governance is documented on GitHub in English: https://github.com/greenfox-academy/governance/
 
+### CRM
+Track all personal contacts in Prosperworks, including sales, student, teacher, event participant, business partner etc. contacts.
+
 ### English
 Every document must have written in English, unless it needs to be in antoher language.
 
