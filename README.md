@@ -77,6 +77,9 @@ Every document must have written in English, unless it needs to be in antoher la
 ### Project Management tool
 Use Trello to track all your projects and tasks.
 
+### Mentor Time Tracking
+Mentor time tracking should be managed by the relevant education role or circle in order to unify and make measurable the effort.
+
 ## Circles
 ### Junior Education Circle - Tojas
 
