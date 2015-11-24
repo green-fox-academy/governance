@@ -77,6 +77,10 @@ Every document must have written in English, unless it needs to be in antoher la
 ### Project Management tool
 Use Trello to track all your projects and tasks.
 
+### Mentor Time Cap
+Cap the time of the mentors of each education role or circle. The cap needs to be communicated by the TLC LL. 15% difference from the planned time is acceptable. Compare plan and fact once per month. In case of exceed the cap above 15%, the TLC
+LL, the Education Circle LL and the mentor with overtime make decision about acting.
+
 ## Circles
 ### Junior Education Circle - Tojas
 
