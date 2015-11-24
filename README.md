@@ -84,5 +84,9 @@ LL, the Education Circle LL and the mentor with overtime make decision about act
 ## Circles
 ### Junior Education Circle - Tojas
 
+Accountabilities:
+- Reporting weekly about the development of the underperfoming students compared to the average
+- Developing a plan to help the underperforming students
+
 ## Circles
 ### Gawker Education Circle - Barbi
