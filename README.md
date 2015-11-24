@@ -69,7 +69,7 @@ Domains:
 The governance is documented on GitHub in English: https://github.com/greenfox-academy/governance/
 
 ### CRM
-Track all personal contacts in Prosperworks, including sales, student, teacher, event participant, business partner etc. contacts.
+Track all personal contacts in Prosperworks, including sales, student, teacher, event participant, business partner etc. contacts. Everybody, who has access to the CRM, must update it on a regular basis, if anything relevant has happened.
 
 ### English
 Every document must have written in English, unless it needs to be in another language. Basic marketing-communications materials must be available in English (website, intro presentation).
