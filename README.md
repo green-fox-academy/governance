@@ -80,5 +80,9 @@ Use Trello to track all your projects and tasks.
 ## Circles
 ### Junior Education Circle - Tojas
 
+Accountabilities:
+- Reporting weekly about the development of the underperfoming students compared to the average
+- Developing a plan to help the underperforming students
+
 ## Circles
 ### Gawker Education Circle - Barbi
