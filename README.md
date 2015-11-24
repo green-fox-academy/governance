@@ -39,11 +39,11 @@ Accountabilities:
  - Handling sales pipeline
 
 Domains:
- - 
+
 
 ### Finance - Barbi
 Purpose:
-- 
+
 
 Accountabilities:
  - 
