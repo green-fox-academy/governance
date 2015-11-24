@@ -72,7 +72,7 @@ The governance is documented on GitHub in English: https://github.com/greenfox-a
 Track all personal contacts in Prosperworks, including sales, student, teacher, event participant, business partner etc. contacts.
 
 ### English
-Every document must have written in English, unless it needs to be in antoher language.
+Every document must have written in English, unless it needs to be in another language. Basic marketing-communications materials must be available in English (website, intro presentation).
 
 ### Project Management tool
 Use Trello to track all your projects and tasks.
