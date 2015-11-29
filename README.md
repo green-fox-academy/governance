@@ -39,6 +39,16 @@ Accountabilities:
 
 Domains:
 
+### Events & Community - Anikó
+
+Purpose:
+
+Accountabilities:
+- Coordinating event organization
+- Partnering with events
+- Coordinating speaking opportunities
+
+Domains:
 
 ### Finance - Barbi
 Purpose:
