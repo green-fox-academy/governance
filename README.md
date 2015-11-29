@@ -24,17 +24,13 @@ Domains:
 
 ### Admin - Éva, Barbi
 Purpose:
-- 
 
 Accountabilities:
- - 
 
 Domains:
- - 
 
 ### Sales and Biz.Dev. - Barbi, Kristóf, Peták
 Purpose:
-- 
 
 Accountabilities:
  - Building partnerships
@@ -91,5 +87,4 @@ Accountabilities:
 - Reporting weekly about the development of the underperfoming students compared to the average
 - Developing a plan to help the underperforming students
 
-## Circles
 ### Gawker Education Circle - Barbi
