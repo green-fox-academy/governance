@@ -52,11 +52,10 @@ Accountabilities:
 - Tracking cash-flow
 - Managing every financial issue
 - Financial transactions
-- Settling SplitWise balances between Company and Partners
-- Handling Paypal, Transferwise and any other online payment system in use
 - Reimbursing
 - Dealing with the bank
 - Securing our financial operations and tax payments
+- Handling financials between owners
 
 Domains:
 - Accountant
