@@ -23,21 +23,7 @@ Domains:
 - Approve the final form of the contracts
 
 ### Admin - Éva, Barbi
-Purpose:
-- Run the company operations
-- 
-Accountabilities:
-- Managing Partner data (birth, name, tax number ...).
-- Pre-filling admin forms with all known data before sending it to Partners.
-- Keeping internal administration on track
-- HR admin
-- Client admin
-- Financial admin
-- Send and pick up post
 
-overprice.
-
-Domains:
 
 ### Sales and Biz.Dev. - Barbi, Kristóf, Peták
 Purpose:
