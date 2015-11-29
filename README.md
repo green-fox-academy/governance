@@ -1,6 +1,9 @@
 # Governance
 
 ## Purpose
+- Teach practical, up-to-date and marketable knowhow and mindset to prospect and practicing IT professionals. Provide access to talent and generate profit for the owners.
+- Make impact by helping people to change career or improve themsleves to the IT sector, to become wealthy and happy.
+- Education to build digital products.
 
 ## Roles
 ### Lead Link - Barbi
