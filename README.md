@@ -62,6 +62,20 @@ Domains:
  - Strategy
 
 
+### Marketing
+
+Purpose:
+
+Accountabilities:
+- Keeping the website up-to-date
+- Keeping social media channels up-to-date
+- Managing marketing channels, for example Adwords
+- Writing copy
+- Proofreading
+
+Domains:
+
+
 ## Policies
 
 ### Greenfox Governance
