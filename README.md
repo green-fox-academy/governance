@@ -45,17 +45,27 @@ Accountabilities:
 Domains:
  - 
  
-Board and Strategy - Kristóf, Peták, Barbi, Tojás
+### Board and Strategy - Kristóf, Peták, Barbi, Tojás
 Purpose:
 - Great and profitable company
 - Happy shareholders
+- Clear strategy for the organization
 
 Accountabilities:
- - Approving high level contracts
+- Approving high level contracts
+- Making strategy
+- Getting advice and input from the team
+- Following market trends
+- Exploring market opportunities
+- Setting up mid and long run plans
+- Seeing the big picture
+- Presenting KPIs and strategic changes monthly to the whole company
 
 Domains:
  - Strategy
-
+- Vision
+- Long term goals
+- To start and stop branches
 
 ## Policies
 
