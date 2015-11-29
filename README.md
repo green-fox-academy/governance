@@ -60,6 +60,21 @@ Accountabilities:
 Domains:
  - Strategy
 
+### Social Content Manager
+
+Purpose: 
+- Maintain the social visibility of the Green Fox Brand on Twitter and Facebook
+
+Accountabilities: 
+- Create a plan in each month both in English and Hungarian
+- Before publishing send the content plan to the marketing role to check that is it inline with the actual marketing campaign message
+- Answer for comments and letters from social media
+
+Domains: 
+- Can decide about the pieces of the content, style etc….
+- Can decide how to handle the the “trolls” 
+
+
 
 ## Policies
 
