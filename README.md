@@ -10,7 +10,7 @@
 
 ### Facilitator - Petak
 
-### Secretary - Tojas
+### Secretary - Eva
 
 ### Legal - Barbi
 Purpose:
