@@ -74,6 +74,9 @@ Purpose:
 - Great market reach
 
 Accountabilities:
+- Coordinating event organization
+- Partnering with events
+- Coordinating speaking opportunities
 - Keeping the website up-to-date
 - Managing marketing channels, for example Adwords
 - Writing copy
