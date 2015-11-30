@@ -45,7 +45,7 @@ Accountabilities:
 Domains:
  - 
  
-Board and Strategy - Kristóf, Peták, Barbi, Tojás
+###Board and Strategy - Kristóf, Peták, Barbi, Tojás
 Purpose:
 - Great and profitable company
 - Happy shareholders
@@ -55,6 +55,17 @@ Accountabilities:
 
 Domains:
  - Strategy
+
+### Customer Happiness
+Purpose: 
+- Make extraordinary happy customers
+
+Accountabilities: 
+- Fulfill the customer experience of GreenFox customers with the little details that really makes 
+
+Domains:
+- Can decide what are these things
+- Can send the Customer Happiness Budget defined by the Finance role
 
 
 ### Marketing Communications
