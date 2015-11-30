@@ -57,6 +57,26 @@ Domains:
  - Strategy
 
 
+### Marketing Communications
+
+Purpose:
+- Great market reach
+
+Accountabilities:
+- Keeping the website up-to-date
+- Managing marketing channels, for example Adwords
+- Writing copy
+- Proofreading
+- Building GreenFox brand
+- Planning and organizing marketing campaigns
+- Providing marketing materials for Sales and Biz dev roles
+- Reaching the sales target defined in the campaign plans in cooperation with Sales and Bizdev role
+- Cooperating with the Finance role about the timing of marketing spending to avoid cash flow problems
+
+Domains:
+- Marketing budget alllocation for each campaign
+- Campaign priorities
+
 ## Policies
 
 ### Greenfox Governance
