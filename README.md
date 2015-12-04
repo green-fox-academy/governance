@@ -27,6 +27,8 @@ Domains:
 
 ### Sales and Biz.Dev. - Barbi, Kristóf, Peták
 Purpose:
+- Good business relations with other companies
+- Strong partnerships
 
 Accountabilities:
  - Building partnerships
