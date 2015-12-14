@@ -130,5 +130,6 @@ Student dismissal is the Domain of each Education Circles Lead Link, after condu
 Accountabilities:
 - Reporting weekly about the development of the underperfoming students compared to the average
 - Developing a plan to help the underperforming students
+- Giving regular written feedback to the students, evaluating their work
 
 ### Gawker Education Circle - Barbi
