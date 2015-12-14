@@ -27,7 +27,7 @@ Purpose:
 - Run the company operations
 - 
 Accountabilities:
-- Managing Partner data (birth, name, tax number ...).
+- Managing personal data (birth, name, tax number ...).
 - Pre-filling admin forms with all known data before sending it to Partners.
 - Keeping internal administration on track
 - HR admin
@@ -65,6 +65,7 @@ Accountabilities:
 - Working with the accountant
 - Optimizing financial processes
 - Tracking cash-flow
+- Explaining cash-flow once a months
 - Managing every financial issue
 - Financial transactions
 - Reimbursing
