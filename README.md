@@ -56,13 +56,27 @@ Domains:
 
 ### Finance - Barbi
 Purpose:
-
+- Optimal financial operation
+- Financial clarity and legality
 
 Accountabilities:
- - 
+- Invoicing
+- Planning and paying tax
+- Working with the accountant
+- Optimizing financial processes
+- Tracking cash-flow
+- Managing every financial issue
+- Financial transactions
+- Reimbursing
+- Dealing with the bank
+- Securing our financial operations and tax payments
+- Handling financials between owners
 
 Domains:
- - 
+- Accountant
+- Bank
+- Financial best practices
+- Tax payments and optimization
  
 ###Board and Strategy - Kristóf, Peták, Barbi, Tojás
 Purpose:
