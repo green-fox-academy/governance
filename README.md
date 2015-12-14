@@ -27,11 +27,18 @@ Domains:
 
 ### Sales and Biz.Dev. - Barbi, Kristóf, Peták
 Purpose:
+- Enough clients
+- Perfect clients
+- Good impression made on clients
 
 Accountabilities:
  - Building partnerships
  - Making new business opportunities
  - Handling sales pipeline
+ - Keeping client relationships until contract signed
+- Generating leads
+- pursuing upsell opportunities
+- Converting leads
 
 Domains:
 
