@@ -6,13 +6,15 @@
 - Education to build digital products.
 
 ## Roles
-### Lead Link - Barbi
 
-### Facilitator - Petak
+### Lead Link (Barbi)
 
-### Secretary - Eva
+### Facilitator (Petak)
 
-### Legal - Barbi
+### Secretary (Eva)
+
+### Legal (Barbi)
+
 Purpose:
 - Secure the legal stability of the company
 
@@ -22,7 +24,7 @@ Domains:
 - Which contract is shared with tho owners
 - Approve the final form of the contracts
 
-### Admin - Éva, Barbi
+### Admin (Éva, Barbi)
 Purpose:
 - Run the company operations
 - 
@@ -37,7 +39,7 @@ Accountabilities:
 
 Domains:
 
-### Sales and Biz.Dev. - Barbi, Kristóf, Peták
+### Sales and Biz.Dev. (Barbi, Kristof, Petak)
 Purpose:
 - Enough clients
 - Perfect clients
@@ -54,7 +56,7 @@ Accountabilities:
 
 Domains:
 
-### Finance - Barbi
+### Finance (Barbi)
 Purpose:
 - Optimal financial operation
 - Financial clarity and legality
@@ -79,7 +81,7 @@ Domains:
 - Financial best practices
 - Tax payments and optimization
  
-###Board and Strategy - Kristóf, Peták, Barbi, Tojás
+###Board and Strategy (Kristóf, Peták, Barbi, Tojás)
 Purpose:
 - Great and profitable company
 - Happy shareholders
@@ -102,7 +104,7 @@ Domains:
 - Can send the Customer Happiness Budget defined by the Finance role
 
 
-### Marketing Communications
+### Marketing Communications (Barbi)
 
 Purpose:
 - Great market reach
@@ -152,11 +154,11 @@ Student dismissal is the Domain of each Education Circles Lead Link, after condu
 - Mentors of the given Education Circle
 
 ## Circles
-### Junior Education Circle - Tojas
+### Junior Education Circle (Barbi)
 
 Accountabilities:
 - Reporting weekly about the development of the underperfoming students compared to the average
 - Developing a plan to help the underperforming students
 - Giving regular written feedback to the students, evaluating their work
 
-### Gawker Education Circle - Barbi
+### Gawker Education Circle (Barbi)
