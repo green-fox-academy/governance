@@ -4,6 +4,11 @@
 
 ## Roles:
 
+### Leadlink: Barbi
+### Facilitator: Tojás
+### Secretary: Barbi
+### Replink: Tojás
+
 ### Head of education 
 
 #### Purpose:
