@@ -4,7 +4,7 @@
 
 ## Roles:
 
-### Leadlink (Barbi)
+### Lead Link (Barbi)
 ### Facilitator (Tojás)
 ### Secretary (Barbi)
 ### Replink (Tojás)
