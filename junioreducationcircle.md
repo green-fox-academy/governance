@@ -4,12 +4,12 @@
 
 ## Roles:
 
-### Leadlink: Barbi
-### Facilitator: Tojás
-### Secretary: Barbi
-### Replink: Tojás
+### Leadlink (Barbi)
+### Facilitator (Tojás)
+### Secretary (Barbi)
+### Replink (Tojás)
 
-### Head of education 
+### Head of education (Tojás)
 
 #### Purpose:
 - Professionally trained junior coders
@@ -23,7 +23,7 @@
 #### Domains:
 - Syllabus 
 
-### Program coordinator 
+### Program coordinator (Éva)
 
 #### Purpose: 
 - Professionally organized education program
