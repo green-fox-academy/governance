@@ -1,4 +1,4 @@
-# GreenFox Academy Governance
+# TLC Governance
 
 ## Purpose
 - Teach practical, up-to-date and marketable knowhow and mindset to prospect and practicing IT professionals. Provide access to talent and generate profit for the owners.
