@@ -1,15 +1,45 @@
-# asdfasdfa
+# Junior Education Circle Governance
 
-dsf gsdfg sdgf sdgf sdfg sdfg
-sdfg sdg sdgf 
+## Purpose:
 
-sdf gdsfg sdg 
+## Roles:
 
-sd fgdsf gsg
-- asd fas
-- assadf as
-- asdfafds a
-- sadf af
-- as dfadf
+### Head of education 
+
+#### Purpose:
+- Professionally trained junior coders
+
+#### Accountability:
+- Reviewing teachers
+- Facilitating the exams
+- Facilitating the standups
+- Reviewing the stundes weekly
+
+#### Domains:
+- Syllabus 
+
+### Program coordinator 
+
+#### Purpose: 
+- Professionally organized education program
+- Happy teachers
+- Happy students
+
+#### Accountabilities:
+
+- Control the changes of the syllabus
+- Communicate changes to the teachers
+- Answer to the teachers’ and students’ questions on Slack
+- Administrate student’s todos to Trello each weeks
+- Hold regular meetings with the ‘head of education role’ to be familiar with the challenges of the course
+- Organize Retrospective meetings to the teachers in each month and write a memo
+- Organize the coaching sessions
+- Organize the exams
+- Assist the “Coach” role with tools and organization if it’s necessary
+- Book venues if it’s necessary
+
+#### Domains: 
+- 
+
 
 
