@@ -7,7 +7,7 @@
 ### Lead Link (Barbi)
 ### Facilitator (Tojás)
 ### Secretary (Barbi)
-### Replink (Tojás)
+### Rep Link (Tojás)
 
 ### Head of education (Tojás)
 
