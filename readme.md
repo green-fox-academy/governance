@@ -66,6 +66,7 @@ Accountabilities:
 - Planning and paying tax
 - Working with the accountant
 - Optimizing financial processes
+- Securing cash-flow
 - Tracking cash-flow
 - Explaining cash-flow once a months
 - Managing every financial issue
