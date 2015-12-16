@@ -62,10 +62,9 @@ Accountabilities:
 - Presenting KPIs and strategic changes monthly to the whole company
 
 Domains:
- - Strategy
+- Strategy
 - Vision
 - Long term goals
-- To start and stop branches
 
 ## Policies
 
