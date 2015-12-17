@@ -50,15 +50,28 @@
 
 #### Purpose:
 - Happy Students
-- Professional 'student-employer' match making process
+-  Professional 'student-employer' match making process
+
+#### Accountablilities:
+- Organize personal coaching session
+- Ducumnent the content of the personal coaching sessions
+
+### The Tariner
+- Can choose the metholdology
+
+#### Purpose:
+- 
 
 #### Accountablilities:
 
 - Work out the soft skill development program and share with the circle members
-- Organize the tarining and sessions
-- Inforam the Program Coordinator role about the tarining and workshop sessions
-- Organize personal coaching session
-- Ducumnent the content of the personal coaching sessions
+- Inforam the Program Coordinator role about the schedule the tarining and workshop sessions
+- Inform the Program Coorrdinator role about the needs of the training and workshop sessions
+- Change the agenda in cooperation with the Program coordinator role if it's neccessary 
+
+#### Domains:
+- Can make decisions about the thematics
+- Can make decisions about the teams
 
 
 
