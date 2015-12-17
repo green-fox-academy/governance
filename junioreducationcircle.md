@@ -46,5 +46,20 @@
 #### Domains: 
 - 
 
+### The Coach
+
+#### Purpose:
+- Happy Students
+- Professional 'student-employer' match making process
+
+#### Accountablilities:
+
+- Work out the soft skill development program and share with the circle members
+- Organize the tarining and sessions
+- Inforam the Program Coordinator role about the tarining and workshop sessions
+- Organize personal coaching session
+- Ducumnent the content of the personal coaching sessions
+
+
 
 
