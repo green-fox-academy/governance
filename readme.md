@@ -146,6 +146,10 @@ Use Trello to track all your projects and tasks.
 Cap the time of the mentors of each education role or circle. The cap needs to be communicated by the TLC LL. 15% difference from the planned time is acceptable. Compare plan and fact once per month. In case of exceed the cap above 15%, the TLC
 LL, the Education Circle LL and the mentor with overtime make decision about acting.
 
+### E-mail signature
+Team members who Green Fox related e-mail address (@greenfoxacademy.com or greenfox.academy) must use the following signature stucture in digital business correspondance. 
+https://docs.google.com/document/d/1bS1ISJqsG48wkXe3DHt_-YTSxzzC9gpohIBSZj3ViqY/edit
+
 ## Domains
 ### Student Dismissal
 Student dismissal is the Domain of each Education Circles Lead Link, after conducting an advising process with the below roles:
