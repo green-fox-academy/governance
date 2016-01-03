@@ -81,7 +81,28 @@ Domains:
 - Bank
 - Financial best practices
 - Tax payments and optimization
- 
+
+
+### Team recruiter 
+
+Purpose:
+Find and employ outstanding people and help them to be able to do their best in the team
+
+Accountabilities:
+- Create job descriptions
+- Do the first round filtering based on CV-s and motivation letters
+- Do the first round of interviews
+- Organize the “Team permission” process
+- If the Team’s decision is yes, make the final decision about the recruitment
+- Negotiate about the working conditions
+- Ask for budet permission from the finance role for overall cost per month of the employee
+- Prepare the contracts, keep the contact with the attorneys of necessary
+- If a team member must be fired, organize the process and do the paperwork
+
+Domain:
+- Can define about the ideal profile 
+- Make the final decision
+
 ###Board and Strategy (Kristóf, Peták, Barbi, Tojás)
 Purpose:
 - Great and profitable company
