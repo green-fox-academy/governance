@@ -19,6 +19,13 @@ Purpose:
 - Secure the legal stability of the company
 
 Accountabilities:
+- Keep contact with the attorneys
+- Prepare contract drafts for the attorneys
+- Final check all contacts
+- Consult the high level papers with the ‘Board and Strategy’ role
+- Sign contracts
+- Supervise that the business operations runs according to the signed contracts
+- Be aware with the conditions of state permissions that are necessary for the company's operations
 
 Domains:
 - Which contract is shared with tho owners
