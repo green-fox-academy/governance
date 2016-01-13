@@ -56,6 +56,25 @@ Accountabilities:
 
 Domains:
 
+### Students recruiter
+
+Purpose:
+Profile and select students who has the skills and motivation for doing excellent performance in our courses so be able to prove that Green Fox Academy is a quality education brand.
+
+Accountabilities:
+- Create course tailored student profile in cooperation with the ‘Head of the course’
+- Create the ideal “Class profile” in cooperation with the  ‘Head of the course’
+- Design application process in cooperation with the ‘Head of the course’
+- Facilitate application interviews and workshops
+- Valuate the the results of each students
+- Prepare the final short list of 
+- Consult with the head of the course before making final decision
+
+Domain:
+- Can define about the ideal profile 
+- Can make the final admission decision
+
+
 ### Finance (Barbi)
 Purpose:
 - Optimal financial operation
