@@ -128,6 +128,28 @@ Domains:
 - Marketing budget alllocation for each campaign
 - Campaign priorities
 
+### Office and education center
+
+Purpose:
+Create and maintain a school and an office environment that is a great basis for an outstanding education and working experience.
+
+Accountabilities:
+
+- Search for new office and/or education center if it’s necessary
+- Prepare and make rental deals
+- Before making a rental deal consult with the finance role about the budget
+- Before making the rental deal ask for permission for the contracts from the legal role
+- Design the office services
+- Find and negotiate with the necessary service providers
+- Keep the everyday contacts with the service providers
+- Create services development plans if it’s necessary
+- Organize the technical support for the Junior Education circle
+- Buy new equipments (computers, video recorders, printers) when necessary 
+- Organize the servicing of the broken equipements
+
+Domain:
+Can decide about how to spent and how to share the office budget between the certain items if the total amount is permitted by the Finance role 
+
 ## Policies
 
 ### Greenfox Governance
@@ -163,3 +185,4 @@ Accountabilities:
 - Giving regular written feedback to the students, evaluating their work
 
 ### Gawker Education Circle (Barbi)
+
