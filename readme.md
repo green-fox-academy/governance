@@ -27,7 +27,7 @@ Domains:
 ### Admin (Éva, Barbi)
 Purpose:
 - Run the company operations
-- 
+
 Accountabilities:
 - Managing personal data (birth, name, tax number ...).
 - Pre-filling admin forms with all known data before sending it to Partners.
@@ -46,10 +46,10 @@ Purpose:
 - Good impression made on clients
 
 Accountabilities:
- - Building partnerships
- - Making new business opportunities
- - Handling sales pipeline
- - Keeping client relationships until contract signed
+- Building partnerships
+- Making new business opportunities
+- Handling sales pipeline
+- Keeping client relationships until contract signed
 - Generating leads
 - pursuing upsell opportunities
 - Converting leads
