@@ -71,6 +71,8 @@
 - Facilitating the standups
 - Facilitating the lessons
 - Providing student progress information weekly
+- Writing syllabus
+- Creating teaching materials
 
 #### Domains:
 - Syllabus 
