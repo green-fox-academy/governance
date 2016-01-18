@@ -30,7 +30,19 @@
 - Book venues if it’s necessary
 
 #### Domains: 
-- 
+
+###Account
+
+####Purpose:
+- Super happy sponsors
+
+#Accountabilities: 
+- Nagotiate with clients
+- Finalize contracts
+- Do the client relatinship managemnet through the full project
+- Upsell sponsorship quotas and related projects
+
+####Domain: 
 
 ### The Coach
 
