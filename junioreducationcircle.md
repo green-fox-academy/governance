@@ -29,7 +29,19 @@
 - Assist the “Coach” role with tools and organization if it’s necessary
 - Book venues if it’s necessary
 
-#### Domains: 
+#### Domains:
+
+###Admission coordinator
+
+####Purpose: 
+- Design and facilitate a super smooth and affective admission process
+
+###Accountabilities: 
+- Coordinate the admission workflow accourding the  plans of the 'Students' recruiter' Role
+- Students' relationship managemnet through the full application process
+
+Domain: 
+- 
 
 ###Account
 
