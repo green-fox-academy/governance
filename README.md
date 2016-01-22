@@ -78,7 +78,7 @@ Every document must have written in English, unless it needs to be in antoher la
 Use Trello to track all your projects and tasks.
 
 ### Mentor Time Tracking
-Each mentor should track his or her time and create a transparent report about it in order to unify and make measurable the effort. The time tracking should be supervised by the Finance role.
+Each mentor should track his or her time dedicated lesson and lesson preparation and create a transparent report about it on a weekly basis in order to unify and make measurable the effort. The time tracking should be supervised by the Finance role.
 
 ## Circles
 ### Junior Education Circle - Tojas
