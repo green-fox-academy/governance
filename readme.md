@@ -11,7 +11,7 @@
 
 ### Facilitator (Petak)
 
-### Secretary (Eva)
+### Secretary (Kristof)
 
 ### Legal (Barbi)
 
