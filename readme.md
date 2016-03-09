@@ -163,3 +163,5 @@ Accountabilities:
 - Giving regular written feedback to the students, evaluating their work
 
 ### Gawker Education Circle (Barbi)
+
+### Tech 4 Biz Education Circle (Kristóf)
