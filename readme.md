@@ -165,3 +165,5 @@ Accountabilities:
 ### Gawker Education Circle (Barbi)
 
 ### Tech 4 Biz Education Circle (Kristóf)
+
+Accountibilities:
