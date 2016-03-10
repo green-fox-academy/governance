@@ -31,16 +31,16 @@
 
 #### Domains:
 
-###Admission coordinator (Evelin)
+### Admission coordinator (Evelin)
 
 ####Purpose: 
 - Design and facilitate a super smooth and affective admission process
 
-###Accountabilities: 
+####Accountabilities: 
 - Coordinate the admission workflow accourding the  plans of the 'Students' recruiter' Role
 - Students' relationship managemnet through the full application process
 
-Domain: 
+####Domain: 
 - 
 
 ###Account (Barbi)
@@ -48,7 +48,7 @@ Domain:
 ####Purpose:
 - Super happy sponsors
 
-#Accountabilities: 
+####Accountabilities: 
 - Nagotiate with clients
 - Finalize contracts
 - Do the client relatinship managemnet through the full project
