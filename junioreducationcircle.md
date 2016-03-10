@@ -9,7 +9,7 @@
 ### Secretary (Barbi)
 ### Rep Link (Tojás)
 
-### Program coordinator (Éva)
+### Program coordinator (?)
 
 #### Purpose: 
 - Professionally organized education program
@@ -31,7 +31,7 @@
 
 #### Domains:
 
-###Admission coordinator
+###Admission coordinator (Evelin)
 
 ####Purpose: 
 - Design and facilitate a super smooth and affective admission process
@@ -43,7 +43,7 @@
 Domain: 
 - 
 
-###Account
+###Account (Barbi)
 
 ####Purpose:
 - Super happy sponsors
@@ -56,7 +56,7 @@ Domain:
 
 ####Domain: 
 
-### The Coach
+### The Coach (Ildikó)
 
 #### Purpose:
 - Happy Students
@@ -66,7 +66,7 @@ Domain:
 - Organize personal coaching session
 - Ducumnent the content of the personal coaching sessions
 
-### The Tariner
+### The Tariner (Ildikó)
 - Can choose the metholdology
 
 #### Purpose:
