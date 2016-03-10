@@ -7,7 +7,7 @@
 ### Lead Link (Barbi)
 ### Facilitator (Tojás)
 ### Secretary (Barbi)
-### Rep Link (Tojás)
+### Rep Link (Evelin)
 
 #### Domains:
 
