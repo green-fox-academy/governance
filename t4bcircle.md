@@ -1,4 +1,4 @@
-### Purpose ###
+## Purpose of the circle ##
 
 Demystifying digital product development and its context
 
@@ -9,7 +9,57 @@ For decision makers, to make better decisions / hassle-less collaboration with t
 - Ability to select / differentiate the proper product development method
 
 
-### Admission coordinator (Evelin)
+## Roles ##
+
+### Lead Link (Kristóf)###
+
+### Marketing (Evelin)###
+- 
+
+####Purpose: 
+- 
+
+####Accountabilities: 
+- 
+
+####Domain: 
+
+### Education material writer (Kristóf) ###
+- 
+
+####Purpose: 
+- 
+
+####Accountabilities: 
+- 
+
+####Domain: 
+
+
+### Education material reviewer (P. Feri, T. Feri) ###
+- 
+
+####Purpose: 
+- 
+
+####Accountabilities: 
+- 
+
+####Domain: 
+
+### Student recruiter (Kristóf, P.Feri)###
+- 
+
+####Purpose: 
+- 
+
+####Accountabilities: 
+- 
+
+####Domain: 
+
+
+### Admission coordinator (Evelin) ###
 
 ####Purpose: 
 - Design and facilitate a super smooth and affective admission process
@@ -20,4 +70,15 @@ For decision makers, to make better decisions / hassle-less collaboration with t
 
 ####Domain: 
 - 
+
+### Teacher (Kristóf, P.Feri, T. Feri, Marci)###
+- 
+
+####Purpose: 
+- 
+
+####Accountabilities: 
+- 
+
+####Domain:
 
