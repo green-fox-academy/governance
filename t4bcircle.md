@@ -8,6 +8,19 @@ For decision makers, to make better decisions / hassle-less collaboration with t
 - Act as a Product Owner (pragmatic skills)
 - Ability to select / differentiate the proper product development method
 
+## Accountabilities ##
+- Defining the syllabus of the T4B course
+- Defining the target audience of the T4B course
+- Managing the marketing activities of the T4B course
+- Managing the student recruitment process of the T4B course
+- Preparing the budget of the T4B course
+- Defining the detailed education material of the T4B course
+- Managing a seemless course for the T4B students and teachers
+- Weekly reporting to TLC about the achievemnts and the challenges
+
+
+### Lead Link (Kristóf)###
+
 
 ## Roles ##
 
