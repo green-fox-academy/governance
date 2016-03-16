@@ -11,11 +11,11 @@ For decision makers, to make better decisions / hassle-less collaboration with t
 ## Accountabilities ##
 - Defining the syllabus of the T4B course
 - Defining the target audience of the T4B course
-- Managing the marketing activities of the T4B course
-- Managing the student recruitment process of the T4B course
-- Preparing the budget of the T4B course
+- Planning and executing the marketing activities of the T4B course
+- Helping and participating in the student recruitment process of the T4B course
+- Preparing the budget of the T4B course and consult it with the _Finance role_
 - Defining the detailed education material of the T4B course
-- Managing a seemless course for the T4B students and teachers
+- Managing and executing a seemless course for the T4B students and teachers
 - Weekly reporting to TLC about the achievemnts and the challenges
 
 
