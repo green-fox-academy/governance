@@ -168,6 +168,16 @@ Accountabilities:
 
 Purpose:
 
++## Purpose of the circle ##
+ +
+ +Demystifying digital product development and its context
+ +
+ +For decision makers, to make better decisions / hassle-less collaboration with tech people
+ +
+ +- Understand the Product ownership / tech product architectures (roles, processes)
+ +- Act as a Product Owner (pragmatic skills)
+ +- Ability to select / differentiate the proper product development method
+
 Accountibilities:
 - Defining the syllabus of the T4B course
 - Defining the target audience of the T4B course
