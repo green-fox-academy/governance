@@ -52,7 +52,6 @@ Purpose:
 - Clear strategy for the organization
 
 Accountabilities:
-- Approving high level contracts
 - Making strategy
 - Getting advice and input from the team
 - Following market trends
@@ -63,7 +62,6 @@ Accountabilities:
 
 Domains:
 - Strategy
-- Vision
 - Long term goals
 
 ## Policies
