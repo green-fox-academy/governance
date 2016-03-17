@@ -150,6 +150,9 @@ Every document must have written in English, unless it needs to be in another la
 ### Project Management tool
 Use Trello to track all your projects and tasks.
 
+### Mentor Time Tracking
+Each mentor should track his or her time dedicated lesson and lesson preparation and create a transparent report about it on a weekly basis in order to unify and make measurable the effort. The time tracking should be supervised by the Finance role.
+
 ### Mentor Time Cap
 Cap the time of the mentors of each education role or circle. The cap needs to be communicated by the TLC LL. 15% difference from the planned time is acceptable. Compare plan and fact once per month. In case of exceed the cap above 15%, the TLC
 LL, the Education Circle LL and the mentor with overtime make decision about acting.
