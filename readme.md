@@ -81,24 +81,32 @@ Domains:
 - Bank
 - Financial best practices
 - Tax payments and optimization
- 
-###Board and Strategy (Kristóf, Peták, Barbi, Tojás)
+
+### Board and Strategy - Kristóf, Peták, Barbi, Tojás
 Purpose:
 - Great and profitable company
 - Happy shareholders
+- Clear strategy for the organization
 
 Accountabilities:
- - Approving high level contracts
+- Making strategy
+- Getting advice and input from the team
+- Following market trends
+- Exploring market opportunities
+- Setting up mid and long run plans
+- Seeing the big picture
+- Presenting KPIs and strategic changes monthly to the whole company
 
 Domains:
- - Strategy
+- Strategy
+- Long term goals
 
 ### Customer Happiness
-Purpose: 
+Purpose:
 - Make extraordinary happy customers
 
-Accountabilities: 
-- Fulfill the customer experience of GreenFox customers with the little details that really makes 
+Accountabilities:
+- Fulfill the customer experience of GreenFox customers with the little details that really makes
 
 Domains:
 - Can decide what are these things
