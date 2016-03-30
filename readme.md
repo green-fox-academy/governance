@@ -174,6 +174,8 @@ LL, the Education Circle LL and the mentor with overtime make decision about act
 
 Per course per mentor the total billed preparation time can be maximum 50% of the total workshop hours.
 
+Per course the total syllabus building time must be capped by each mentor role / circle leadlink and approved by the finance role.
+
 ### Self-education budget
 GreenFox employees can spend NET 300k HUF / year for education or self development.  Each transactions must be approved by the Finance role.
 
