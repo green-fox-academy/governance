@@ -157,6 +157,8 @@ Each mentor should track his or her time dedicated lesson and lesson preparation
 Cap the time of the mentors of each education role or circle. The cap needs to be communicated by the TLC LL. 15% difference from the planned time is acceptable. Compare plan and fact once per month. In case of exceed the cap above 15%, the TLC
 LL, the Education Circle LL and the mentor with overtime make decision about acting.
 
+Per course per mentor the total billed preparation time can be maximum 50% of the total workshop hours.
+
 ## Domains
 ### Student Dismissal
 Student dismissal is the Domain of each Education Circles Lead Link, after conducting an advising process with the below roles:
