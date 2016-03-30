@@ -135,6 +135,21 @@ Accountabilities:
 Domains:
 - Marketing budget alllocation for each campaign
 - Campaign priorities
+ 
+### Corporate culture builder
+Purpose:
+-
+
+Accountabilities:
+- 
+
+Domains:
+organise:
+- retrospectives
+- team retreat, trainings 
+- team building
+
+... for the entire organisation
 
 ## Policies
 
