@@ -136,6 +136,18 @@ Domains:
 - Marketing budget alllocation for each campaign
 - Campaign priorities
 
+### Freelancer Teacher
+
+Purpose:
+- Building network by teaching in 3rd party gigs
+
+Accountability:
+- Managing leads
+- Teaching
+
+Domains:
+- Choosing 3rd party partners
+
 ## Policies
 
 ### Greenfox Governance
