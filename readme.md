@@ -117,13 +117,14 @@ Domains:
 
 Purpose:
 - Great market reach
+- Strong social visibility of the Green Fox Brand
 
 Accountabilities:
 - Coordinating event organization
 - Partnering with events
 - Coordinating speaking opportunities
 - Keeping the website up-to-date
-- Managing marketing channels, for example Adwords
+- Managing marketing channels, for example Adwords, social media
 - Writing copy
 - Proofreading
 - Building GreenFox brand
@@ -131,11 +132,14 @@ Accountabilities:
 - Providing marketing materials for Sales and Biz dev roles
 - Reaching the sales target defined in the campaign plans in cooperation with Sales and Bizdev role
 - Cooperating with the Finance role about the timing of marketing spending to avoid cash flow problems
+- Creating and publishing marketing content
+- Drafting marketing materials, including decks, posts, letters etc.
+
 
 Domains:
 - Marketing budget alllocation for each campaign
 - Campaign priorities
- 
+
 ### Corporate culture builder
 Purpose:
 -
@@ -210,4 +214,6 @@ Accountibilities:
 - Preparing the budget of the T4B course and consult it with the _Finance role_
 - Defining the detailed education material of the T4B course
 - Managing and executing a seemless course for the T4B students and teachers
-- Weekly reporting to TLC about the achievemnts and the challenges
+- Reporting weekly to TLC about the achievemnts and the challenges
+- Collecting blog post ideas
+- Facilitating blog posts
