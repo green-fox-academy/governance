@@ -13,10 +13,3 @@
 
 ## Domains:
 - Syllabus
-
-## Roles:
-
-### Lead Link - Tojas
-### Facilitator - Aniko
-### Secretary - Gex
-### Rep Link - Dani
