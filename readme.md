@@ -136,7 +136,8 @@ Domains:
 - Marketing budget alllocation for each campaign
 - Campaign priorities
  
-### Corporate culture builder
+### Students Recruitment Assistant
+
 Purpose:
 -
 
