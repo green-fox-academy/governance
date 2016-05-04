@@ -182,6 +182,8 @@ Per course the total syllabus building time must be capped by each mentor role /
 ### Self-education budget
 GreenFox employees can spend NET 300k HUF / year for education or self development.  Each transactions must be approved by the Finance role.
 
+### Working tools budget
+Green Fox employees can buy wokring tools that are neccessary for their daily work under the price limit of 10.000 HUF without asking permission from the finance role. They have to buy the idems by cash than give the original bill to the Finance role. They will get compensation in cash in 5 days. 
 
 ## Domains
 ### Student Dismissal
