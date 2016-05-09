@@ -63,6 +63,14 @@
 - Can make decisions about the thematics
 - Can make decisions about the teams
 
+### Volunteer mentor
+#### Purpose:
+ - Personal experience for students
+
+#### Accountability:
+ - Paticipating on Mentor Demos
+ - Providing feedback for Demos
+ - Participating on mentor sessions
 
 ### Teacher (Tojás)
 
