@@ -82,9 +82,10 @@
 - Preparing homework materials
 - Facilitating Student presentations
 - Informing students about: Schedule, Homework, Announcements
-- Keeping Student Trello uptodate
+- Keeping Student Trello, and Student Calendar uptodate
 - Providing Feedback for him/her group
 - Reviewing him/her group's code
+- Providing weekly skill expectation list
 
 #### Domains:
 - Syllabus 
