@@ -73,7 +73,7 @@
  - Providing feedback for Demos
  - Participating on mentor sessions
 
-### Teacher (Tojás)
+### Teacher (Tojás, Anikó, Aze)
 
 #### Purpose:
 - Professionally trained junior coders
@@ -95,6 +95,11 @@
 - Providing Feedback for him/her group
 - Reviewing him/her group's code
 - Providing weekly skill expectation list
+- Weekly tracking own time spent on Green Fox project in three categories in the spreadsheet given by the Secretary:
+    - mentoring
+    - homework material preparation
+    - etc.
+    - [spreadsheet link]
 
 #### Domains:
 - Syllabus
