@@ -64,7 +64,6 @@
 - Can make decisions about the teams
 
 
-## Circles:
 ### Teacher (Tojás)
 
 #### Purpose:
@@ -79,6 +78,10 @@
 - Creating teaching materials
 - Facilitating simulation workshops and providing results
 - Teaching on promotional workshops
+- Preparing homework materials
+- Facilitating Student presentations
+- Informing students about: Schedule, Homework, Announcements
+- Keeping Student Trello uptodate
 
 #### Domains:
 - Syllabus 
