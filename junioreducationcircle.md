@@ -36,6 +36,7 @@
 
 ####Domain: 
 
+
 ### The Coach (Ildikó)
 
 #### Purpose:
@@ -98,3 +99,6 @@
 #### Domains:
 - Syllabus 
 
+## Policies:
+### Class calendar
+Every class related event (Demo, Workshops, Party etc...) should be tracked in the current class's calendar. Also every member that needs to be there, expect students, should be invited there (Mentors, Sponsors, Trainer, etc...). 
