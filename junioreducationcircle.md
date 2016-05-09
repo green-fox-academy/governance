@@ -73,6 +73,7 @@
 - Facilitating the exams
 - Facilitating the standups
 - Facilitating the lessons
+- Facilitating Demos
 - Providing student progress information weekly
 - Writing syllabus
 - Creating teaching materials
@@ -82,6 +83,8 @@
 - Facilitating Student presentations
 - Informing students about: Schedule, Homework, Announcements
 - Keeping Student Trello uptodate
+- Providing Feedback for him/her group
+- Reviewing him/her group's code
 
 #### Domains:
 - Syllabus 
