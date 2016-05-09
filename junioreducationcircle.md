@@ -5,36 +5,36 @@
 ## Roles:
 
 ### Lead Link (Barbi)
-### Facilitator (Tojás)
-### Secretary (Barbi)
+### Facilitator (Anikó)
+### Secretary (Aze)
 ### Rep Link (Evelin)
 
 #### Domains:
 
 ### Admission coordinator (Evelin)
 
-####Purpose: 
+####Purpose:
 - Design and facilitate a super smooth and affective admission process
 
-####Accountabilities: 
+####Accountabilities:
 - Coordinate the admission workflow accourding the  plans of the 'Students' recruiter' Role
 - Students' relationship managemnet through the full application process
 
-####Domain: 
-- 
+####Domain:
+-
 
 ###Account (Barbi)
 
 ####Purpose:
 - Super happy sponsors
 
-####Accountabilities: 
+####Accountabilities:
 - Nagotiate with clients
 - Finalize contracts
 - Do the client relatinship managemnet through the full project
 - Upsell sponsorship quotas and related projects
 
-####Domain: 
+####Domain:
 
 
 ### The Coach (Ildikó)
@@ -51,7 +51,7 @@
 - Can choose the metholdology
 
 #### Purpose:
-- 
+-
 
 #### Accountablilities:
 
@@ -97,8 +97,8 @@
 - Providing weekly skill expectation list
 
 #### Domains:
-- Syllabus 
+- Syllabus
 
 ## Policies:
 ### Class calendar
-Every class related event (Demo, Workshops, Party etc...) should be tracked in the current class's calendar. Also every member that needs to be there, expect students, should be invited there (Mentors, Sponsors, Trainer, etc...). 
+Every class related event (Demo, Workshops, Party etc...) should be tracked in the current class's calendar. Also every member that needs to be there, expect students, should be invited there (Mentors, Sponsors, Trainer, etc...).

@@ -9,9 +9,9 @@
 
 ### Lead Link (Barbi)
 
-### Facilitator (Anikó)
+### Facilitator (Petak)
 
-### Secretary (Aze)
+### Secretary (Kristof)
 
 ### Legal (Barbi)
 
