@@ -36,6 +36,7 @@
 
 ####Domain: 
 
+
 ### The Coach (Ildikó)
 
 #### Purpose:
@@ -63,6 +64,14 @@
 - Can make decisions about the thematics
 - Can make decisions about the teams
 
+### Volunteer mentor
+#### Purpose:
+ - Personal experience for students
+
+#### Accountability:
+ - Paticipating on Mentor Demos
+ - Providing feedback for Demos
+ - Participating on mentor sessions
 
 ### Teacher (Tojás)
 
@@ -90,3 +99,6 @@
 #### Domains:
 - Syllabus 
 
+## Policies:
+### Class calendar
+Every class related event (Demo, Workshops, Party etc...) should be tracked in the current class's calendar. Also every member that needs to be there, expect students, should be invited there (Mentors, Sponsors, Trainer, etc...). 
