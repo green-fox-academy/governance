@@ -37,7 +37,7 @@
 ####Domain:
 
 
-### The Coach (Ildikó)
+### The Coach (Kata)
 
 #### Purpose:
 - Happy Students
@@ -47,7 +47,7 @@
 - Organize personal coaching session
 - Ducumnent the content of the personal coaching sessions
 
-### The Tariner (Ildikó)
+### The Tariner (Kata)
 - Can choose the metholdology
 
 #### Purpose:
