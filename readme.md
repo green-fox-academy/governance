@@ -24,7 +24,7 @@ Domains:
 - Which contract is shared with tho owners
 - Approve the final form of the contracts
 
-### Admin (Éva, Barbi)
+### Admin (Barbi)
 Purpose:
 - Run the company operations
 
@@ -101,7 +101,7 @@ Domains:
 - Strategy
 - Long term goals
 
-### Customer Happiness
+### Customer Happiness (Barbi)
 Purpose:
 - Make extraordinary happy customers
 
@@ -113,7 +113,7 @@ Domains:
 - Can send the Customer Happiness Budget defined by the Finance role
 
 
-### Marketing Communications (Barbi)
+### Marketing Communications (Evelin)
 
 Purpose:
 - Great market reach
@@ -194,7 +194,7 @@ Student dismissal is the Domain of each Education Circles Lead Link, after condu
 - Mentors of the given Education Circle
 
 ## Circles
-### Junior Education Circle (Barbi)
+### Junior Education Circle (Tojás)
 
 Accountabilities:
 - Reporting weekly about the development of the underperfoming students compared to the average
