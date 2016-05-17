@@ -99,7 +99,7 @@
     - mentoring
     - homework material preparation
     - etc.
-    - [spreadsheet link]
+    - https://docs.google.com/a/lab.coop/spreadsheets/d/12Rba5O8HvqoL8jlmUpVDJerqeym0Mm6XPEIqRTLQg-A/edit?usp=sharing
 
 #### Domains:
 - Syllabus
