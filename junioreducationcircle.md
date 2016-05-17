@@ -4,7 +4,7 @@
 
 ## Roles:
 
-### Lead Link (Barbi)
+### Lead Link (Tojás)
 ### Facilitator (Anikó)
 ### Secretary (Aze)
 ### Rep Link (Evelin)
