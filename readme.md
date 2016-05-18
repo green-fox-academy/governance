@@ -196,6 +196,9 @@ GreenFox employees can spend NET 300k HUF / year for education or self developme
 ### Working tools budget
 Green Fox employees can buy wokring tools that are neccessary for their daily work under the price limit of 10.000 HUF without asking permission from the finance role. They have to buy the idems by cash than give the original bill to the Finance role. They will get compensation in cash in 5 days.
 
+### Private company expanse
+Green Fox employees and Founders can invite clients / strategic partners for food and drink, and they have to provide the invoice for the Finance role in order to receive the money back. They have to pay in cash or by the comapany credit card.
+
 ## Domains
 ### Student Dismissal
 Student dismissal is the Domain of each Education Circles Lead Link, after conducting an advising process with the below roles:
