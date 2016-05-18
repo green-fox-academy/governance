@@ -135,6 +135,17 @@ Accountabilities:
 Domains:
 - Marketing budget alllocation for each campaign
 - Campaign priorities
+- 
+
+### Bitch role
+
+Purpose:
+The world experiences our teaching methods
+
+Accountabilities:
+- Facilitating PR and Marketing related workshops
+- Creating syllabus for custom workshops
+
 
 ### Students Recruitment Assistant
 
