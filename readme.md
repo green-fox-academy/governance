@@ -211,7 +211,8 @@ Accountabilities:
 - Reporting weekly about the development of the underperfoming students compared to the average
 - Developing a plan to help the underperforming students
 - Giving regular written feedback to the students, evaluating their work
-- Testing and selecting new mentors
+- Testing new mentors
+- Providing feedback to Team Recruiter about new mentors
 - Engaging new mentors
 
 ### Gawker Education Circle (Barbi)
