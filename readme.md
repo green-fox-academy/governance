@@ -135,7 +135,6 @@ Accountabilities:
 Domains:
 - Marketing budget alllocation for each campaign
 - Campaign priorities
-- 
 
 ### Bitch role
 
@@ -149,11 +148,11 @@ Accountabilities:
 
 ### Students Recruitment Assistant
 
+### Corporate culture builder
+
 Purpose:
--
 
 Accountabilities:
--
 
 Domains:
 organise:
@@ -162,8 +161,6 @@ organise:
 - team building
 
 ... for the entire organisation
-
-### Corporate culture builder
 
 ## Policies
 
