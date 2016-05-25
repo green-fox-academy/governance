@@ -64,6 +64,21 @@ Accountabilities:
 
 Domains:
 
+### Lufthasna Project Coordinator (unfilled)
+Purpose: Lufthasna project started
+
+Accountabilities:
+
+Domains:
+
+### Mechatronic Junior Education Project Coordinator (unfilled)
+Purpose: Mechatronic Junior Education project started
+
+Accountabilities:
+
+Domains:
+
+
 ### Team happiness (unfilled)
 Purpose: Happiest team ever
 
