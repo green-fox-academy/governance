@@ -64,6 +64,9 @@ Accountabilities:
 
 Domains:
 
+### Team happiness (unfilled)
+Purpose: Happiest team ever
+
 ### Finance (Barbi)
 Purpose:
 - Optimal financial operation
