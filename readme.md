@@ -146,7 +146,7 @@ Accountabilities:
 - Creating syllabus for custom workshops 
 
 
-### Education Program Designer
+### Education Content Designer (unfilled)
 
 Purpose:
 Easy new program pitches, happy ex BME C level partners
@@ -154,6 +154,7 @@ Easy new program pitches, happy ex BME C level partners
 Accountabilities:
 - Create initial syllabus
 - Pitching techincal parts
+- Telling experience to new education project leaders
 
 ### Students Recruitment Assistant
 
