@@ -169,8 +169,18 @@ The world experiences our teaching methods
 
 Accountabilities:
 - Facilitating PR and Marketing related workshops
-- Creating syllabus for custom workshops
+- Creating syllabus for custom workshops 
 
+
+### Education Content Designer (unfilled)
+
+Purpose:
+Easy new program pitches, happy ex BME C level partners
+ 
+Accountabilities:
+- Create initial syllabus
+- Pitching techincal parts
+- Telling experience to new education project leaders
 
 ### Students Recruitment Assistant
 
