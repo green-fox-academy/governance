@@ -53,6 +53,7 @@ Accountabilities:
 - Generating leads
 - pursuing upsell opportunities
 - Converting leads
+- Starting new education programs
 
 Domains:
 
