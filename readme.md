@@ -24,20 +24,29 @@ Domains:
 - Which contract is shared with tho owners
 - Approve the final form of the contracts
 
-### Admin (Barbi)
-Purpose:
-- Run the company operations
+### HR & Finance & General Operations Admin: 
+
+Purpose
+- Run the company’s administrative processes 100% professionally always ready for a governmental supervision
 
 Accountabilities:
-- Managing personal data (birth, name, tax number ...).
-- Pre-filling admin forms with all known data before sending it to Partners.
+- Managing the contacts of business partners, clients, subcontractors...etc.
+- Pre-filling admin forms, contracts
 - Keeping internal administration on track
-- HR admin
-- Client admin
-- Financial admin
-- Send and pick up post
+- Collect incoming invoices from the team members
+- Upload invoices to the Google Drive folder below
+- https://drive.google.com/drive/u/0/folders/0B1gPUQmn249hbGVqdjdGMVhObTg
+- Administrate invoices into the spreadsheet below
+- https://docs.google.com/a/greenfoxacademy.com/spreadsheets/d/1Edb6kHrPxWdfjN-i5iSvmP5KbGTJc1EPZbHyPyEmoMo/edit?usp=drive_web
+- Prepare the monthly ‘Accounting package’ each month latest by the 12th day  and send to the Accountant office. 
+- Communicate with the Accountants about the administration issues 
+- Collect all the company related documentation from the team members 
+- Scan, organize, administrate and upload to the Google Drive link below all the company related official papers
+https://drive.google.com/drive/u/0/folders/0B1gPUQmn249hX3YwYmpXNTZLdVk
+- Manage all the HR related paperwork in cooperation with the Accountants (For example: monthly salary papers, monthly official timesheets..etc.) 
 
 Domains:
+- Paperwork
 
 ### Sales (Barbi, Kristof, Petak)
 Purpose:
@@ -64,7 +73,7 @@ Accountabilities:
 
 Domains:
 
-### Lufthasna Project Coordinator (unfilled)
+### Lufthasna Project Coordinator (Barbi)
 Purpose: Lufthasna project started
 
 Accountabilities:
@@ -82,31 +91,37 @@ Domains:
 ### Team happiness (unfilled)
 Purpose: Happiest team ever
 
-### Finance (Barbi)
+### Finance & Controlling 
+
 Purpose:
 - Optimal financial operation
 - Financial clarity and legality
 
 Accountabilities:
-- Invoicing
-- Planning and paying tax
+- Invoicing based on signed contracts
+- Tax planning and paying
 - Working with the accountant
 - Optimizing financial processes
-- Securing cash-flow
-- Tracking cash-flow
-- Explaining cash-flow once a months
+- Tracking cash-flow week by week 
+- Prepare cash-flow summary by the 20th of each month
 - Managing every financial issue
 - Financial transactions
 - Reimbursing
 - Dealing with the bank
 - Securing our financial operations and tax payments
-- Handling financials between owners
+- Developing and operating financial and controlling processes
+- Planning and keeping cash-flow
+- Prepare future cash flow estimations if it’s necessary 
 
 Domains:
 - Accountant
 - Bank
 - Financial best practices
 - Tax payments and optimization
+- Petty cash
+- Financial and controlling processes
+- Cash flow safety
+
 
 ### Board and Strategy - Kristóf, Peták, Barbi, Tojás
 Purpose:
