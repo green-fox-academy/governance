@@ -87,8 +87,6 @@ Accountabilities:
 - Handling sales pipeline
 - Keeping client relationships until contract signed
 - Generating leads
-- pursuing upsell opportunities
-- Converting leads
 
 Domains:
 
