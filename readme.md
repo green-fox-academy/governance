@@ -24,18 +24,54 @@ Domains:
 - Which contract is shared with tho owners
 - Approve the final form of the contracts
 
-### Admin (Barbi)
+### Finance & Controlling 
+
 Purpose:
-- Run the company operations
+- Optimal financial operation
+- Financial clarity and legality
 
 Accountabilities:
-- Managing personal data (birth, name, tax number ...).
-- Pre-filling admin forms with all known data before sending it to Partners.
+- Invoicing based on signed contracts
+- Tax planning and paying
+- Working with the accountant
+- Optimizing financial processes
+- Tracking cash-flow week by week 
+- Prepare cash-flow summary by the 20th of each month
+- Managing every financial issue
+- Financial transactions
+- Reimbursing
+- Dealing with the bank
+- Securing our financial operations and tax payments
+- Developing and operating financial and controlling processes
+- Planning and keeping cash-flow
+- Prepare future cash flow estimations if it’s necessary 
+
+Domains:
+- Accountant
+- Bank
+- Tax payments and optimization
+- Petty cash
+
+### HR & Finance & General Operations Admin: 
+
+Purpose
+- Run the company’s administrative processes 100% professionally always ready for a state audit
+
+Accountabilities:
+- Managing the contacts of business partners, clients, subcontractors...etc.
+- Pre-filling admin forms, contracts
 - Keeping internal administration on track
-- HR admin
-- Client admin
-- Financial admin
-- Send and pick up post
+- Collect incoming invoices from the team members
+- Upload invoices to the Google Drive folder
+- Administrate invoices into a spreadsheet 
+- Prepare the monthly ‘Accounting package’ each month latest by the 12th day  and send to the Accountant office. 
+- Communicate with the Accountants about the administration issues 
+- Collect all the company related documentation from the team members 
+- Scan, organize, administrate and upload to the Google Drive all the company related official papers
+- Manage all the HR related paperwork in cooperation with the Accountants (For example: monthly salary papers, monthly official timesheets..etc.) 
+
+Domains:
+-Paperwork
 
 Domains:
 
@@ -82,31 +118,6 @@ Domains:
 ### Team happiness (unfilled)
 Purpose: Happiest team ever
 
-### Finance (Barbi)
-Purpose:
-- Optimal financial operation
-- Financial clarity and legality
-
-Accountabilities:
-- Invoicing
-- Planning and paying tax
-- Working with the accountant
-- Optimizing financial processes
-- Securing cash-flow
-- Tracking cash-flow
-- Explaining cash-flow once a months
-- Managing every financial issue
-- Financial transactions
-- Reimbursing
-- Dealing with the bank
-- Securing our financial operations and tax payments
-- Handling financials between owners
-
-Domains:
-- Accountant
-- Bank
-- Financial best practices
-- Tax payments and optimization
 
 ### Board and Strategy - Kristóf, Peták, Barbi, Tojás
 Purpose:
