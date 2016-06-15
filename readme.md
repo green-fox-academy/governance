@@ -92,6 +92,25 @@ Accountabilities:
 
 Domains:
 
+### Sales account
+
+Purpose:
+- Converting leads into business
+- Keep customers happy
+- Convert clients into brand advocates
+
+Accountabilities:
+- Keep contacts alive after the first contact
+- Drive the sales process
+- Prepare the contracts in cooperation with the Legal role 
+- Manage project documentation 
+- Find the project manager and the project team when it’s necessary
+- Keep in touch with the delivering team during the project
+- Pursuing upsell opportunities
+
+Domain: 
+- Negotiate about client contracts
+
 ### Biz.Dev. (Barbi, Kristof, Petak)
 Purpose:
 - New business opportunities
