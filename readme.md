@@ -243,6 +243,9 @@ Green Fox employees can buy wokring tools that are neccessary for their daily wo
 ### Private company expanse
 Green Fox employees and Founders can invite clients / strategic partners for food and drink, and they have to provide the invoice for the Finance role in order to receive the money back. They have to pay in cash or by the comapany credit card.
 
+### Owners (Lab.Coop, DiNa) hiring participatns
+The priority is to place participants at clients (sponsor companies). Owners can not make offers before, during or in 30 days after the program. After 30 months offer can be made for 1m HUF, after three month for free.
+
 ## Domains
 ### Student Dismissal
 Student dismissal is the Domain of each Education Circles Lead Link, after conducting an advising process with the below roles:
