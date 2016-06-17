@@ -246,6 +246,7 @@ Green Fox employees and Founders can invite clients / strategic partners for foo
 ### Naming convention
 - participant or mentee instead of student or 'little fox'
 - mentor instead of teacher
+- owner = Lab.Coop, DiNa
 
 ## Domains
 ### Student Dismissal
