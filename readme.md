@@ -243,6 +243,10 @@ Green Fox employees can buy wokring tools that are neccessary for their daily wo
 ### Private company expanse
 Green Fox employees and Founders can invite clients / strategic partners for food and drink, and they have to provide the invoice for the Finance role in order to receive the money back. They have to pay in cash or by the comapany credit card.
 
+### Naming convention
+- participant or mentee instead of student or 'little fox'
+- mentor instead of teacher
+
 ## Domains
 ### Student Dismissal
 Student dismissal is the Domain of each Education Circles Lead Link, after conducting an advising process with the below roles:
