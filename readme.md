@@ -264,5 +264,7 @@ Domains:
 - Long term goals
 - Advisor selection and dismissal
 - Fundraising
+- Business model
+- Owner resource accounting
 
 Note: representatives of the owners have the right of holding roles in this circle
