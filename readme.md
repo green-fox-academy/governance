@@ -261,6 +261,8 @@ Accountabilities:
 - Testing new mentors
 - Providing feedback to Team Recruiter about new mentors
 - Engaging new mentors
+- Following up with graduated participants to ensure customer and participant happiness, to decrease fluctuation
+- Building alumni network
 
 ### Gawker Education Circle (Barbi)
 
