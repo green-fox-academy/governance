@@ -243,8 +243,8 @@ Green Fox employees can buy wokring tools that are neccessary for their daily wo
 ### Private company expanse
 Green Fox employees and Founders can invite clients / strategic partners for food and drink, and they have to provide the invoice for the Finance role in order to receive the money back. They have to pay in cash or by the comapany credit card.
 
-### Owners (Lab.Coop, DiNa) hiring participatns
-The priority is to place participants at clients (sponsor companies). Owners can not make offers before, during or in 30 days after the program. After 30 months offer can be made for 1m HUF, after three month for free.
+### Owners (Lab.Coop, DiNa) hiring participants
+The priority is to place participants at clients (sponsor companies). Owners can not make offers before, during or in 30 days after the program. After 3 months offer can be made for the agreed pre-course sales price, after three months for free.
 
 ## Domains
 ### Student Dismissal
