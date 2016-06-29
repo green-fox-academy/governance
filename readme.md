@@ -265,6 +265,10 @@ Green Fox employees can buy wokring tools that are neccessary for their daily wo
 ### Private company expanse
 Green Fox employees and Founders can invite clients / strategic partners for food and drink, and they have to provide the invoice for the Finance role in order to receive the money back. They have to pay in cash or by the comapany credit card.
 
+### Naming convention
+- participant or mentee (resztvevo) instead of student, neither 'green fox' or 'little fox'
+- mentor instead of teacher
+
 ### Owners (Lab.Coop, DiNa) hiring participants
 The priority is to place participants at clients (sponsor companies). Owners can not make offers before, during or in 30 days after the program. After 3 months offer can be made for the agreed pre-course sales price, after three months for free.
 
