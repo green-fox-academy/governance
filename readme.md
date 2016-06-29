@@ -75,7 +75,7 @@ Domains:
 
 Domains:
 
-### Sales (Barbi, Kristof, Petak)
+### Sales and Biz.Dev (Barbi, Kristof, Petak)
 Purpose:
 - Enough clients
 - Perfect clients
@@ -89,14 +89,7 @@ Accountabilities:
 - Generating leads
 - pursuing upsell opportunities
 - Converting leads
-
-Domains:
-
-### Biz.Dev. (Barbi, Kristof, Petak)
-Purpose:
-- New business opportunities
-
-Accountabilities:
+- Building new business opportunities
 
 Domains:
 
