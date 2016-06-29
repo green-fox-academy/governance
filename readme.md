@@ -134,26 +134,6 @@ Domains:
 ### Team happiness (unfilled)
 Purpose: Happiest team ever
 
-
-### Board and Strategy - Kristóf, Peták, Barbi, Tojás
-Purpose:
-- Great and profitable company
-- Happy shareholders
-- Clear strategy for the organization
-
-Accountabilities:
-- Making strategy
-- Getting advice and input from the team
-- Following market trends
-- Exploring market opportunities
-- Setting up mid and long run plans
-- Seeing the big picture
-- Presenting KPIs and strategic changes monthly to the whole company
-
-Domains:
-- Strategy
-- Long term goals
-
 ### Customer Happiness (Barbi)
 Purpose:
 - Make extraordinary happy customers
@@ -282,3 +262,27 @@ Accountabilities:
 
 ### Gawker Education Circle (Barbi)
 
+### Board and Strategy - 
+Purpose:
+- Great and profitable company
+- Happy shareholders
+- Clear strategy for the organization
+
+Accountabilities:
+- Making strategy
+- Getting advice and input from the team
+- Following market trends
+- Exploring market opportunities
+- Setting up mid and long run plans
+- Seeing the big picture
+- Presenting KPIs and strategic changes monthly to the whole company
+
+Domains:
+- Strategy
+- Long term goals
+- Advisor selection and dismissal
+- Fundraising
+- Business model
+- Owner resource accounting
+
+Note: representatives of the owners have the right of holding roles in this circle
