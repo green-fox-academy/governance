@@ -9,6 +9,9 @@
 
 ### Lead Link (Barbi)
 
+Accountabilities:
+ - Organising Board and Strategy Topics meetings
+
 ### Facilitator (Petak)
 
 ### Secretary (Evelin)
@@ -77,7 +80,7 @@ Domains:
 
 ### Sales (Barbi, Kristof, Petak)
 Purpose:
-- Enough clients
+- Enough clients in the sales funnel
 - Perfect clients
 - Good impression made on clients
 
@@ -85,12 +88,28 @@ Accountabilities:
 - Building partnerships
 - Making new business opportunities
 - Handling sales pipeline
-- Keeping client relationships until contract signed
 - Generating leads
-- pursuing upsell opportunities
-- Converting leads
 
 Domains:
+
+### Sales account
+
+Purpose:
+- Converting leads into business
+- Keep customers happy
+- Convert clients into brand advocates
+
+Accountabilities:
+- Keep contacts alive after the first contact
+- Drive the sales process
+- Prepare the contracts in cooperation with the Legal role 
+- Manage project documentation 
+- Find the project manager and the project team when it’s necessary
+- Keep in touch with the delivering team during the project
+- Pursuing upsell opportunities
+
+Domain: 
+- Negotiate about client contracts
 
 ### Biz.Dev. (Barbi, Kristof, Petak)
 Purpose:
@@ -211,6 +230,9 @@ organise:
 
 ## Policies
 
+### Board and Strategy
+The LL may not exclude at least one representative of each owner from the @Board and Strategy role. 
+
 ### Greenfox Governance
 The governance is documented on GitHub in English: https://github.com/greenfox-academy/governance/
 
@@ -247,6 +269,9 @@ Green Fox employees and Founders can invite clients / strategic partners for foo
 - participant or mentee (resztvevo) instead of student, neither 'green fox' or 'little fox'
 - mentor instead of teacher
 
+### Owners (Lab.Coop, DiNa) hiring participants
+The priority is to place participants at clients (sponsor companies). Owners can not make offers before, during or in 30 days after the program. After 3 months offer can be made for the agreed pre-course sales price, after three months for free.
+
 ## Domains
 ### Student Dismissal
 Student dismissal is the Domain of each Education Circles Lead Link, after conducting an advising process with the below roles:
@@ -265,6 +290,8 @@ Accountabilities:
 - Testing new mentors
 - Providing feedback to Team Recruiter about new mentors
 - Engaging new mentors
+- Following up with graduated participants to ensure customer and participant happiness, to decrease fluctuation
+- Building alumni network
 
 ### Gawker Education Circle (Barbi)
 
