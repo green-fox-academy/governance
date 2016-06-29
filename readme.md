@@ -77,7 +77,7 @@ Domains:
 
 ### Sales (Barbi, Kristof, Petak)
 Purpose:
-- Enough clients
+- Enough clients in the sales funnel
 - Perfect clients
 - Good impression made on clients
 
@@ -85,10 +85,7 @@ Accountabilities:
 - Building partnerships
 - Making new business opportunities
 - Handling sales pipeline
-- Keeping client relationships until contract signed
 - Generating leads
-- pursuing upsell opportunities
-- Converting leads
 
 Domains:
 
