@@ -9,6 +9,9 @@
 
 ### Lead Link (Barbi)
 
+Accountabilities:
+ - Organising Board and Strategy Topics meetings
+
 ### Facilitator (Petak)
 
 ### Secretary (Evelin)
@@ -226,6 +229,9 @@ organise:
 ... for the entire organisation
 
 ## Policies
+
+### Board and Strategy
+The LL may not exclude at least one representative of each owner from the @Board and Strategy role. 
 
 ### Greenfox Governance
 The governance is documented on GitHub in English: https://github.com/greenfox-academy/governance/
