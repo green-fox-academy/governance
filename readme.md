@@ -244,9 +244,8 @@ Green Fox employees can buy wokring tools that are neccessary for their daily wo
 Green Fox employees and Founders can invite clients / strategic partners for food and drink, and they have to provide the invoice for the Finance role in order to receive the money back. They have to pay in cash or by the comapany credit card.
 
 ### Naming convention
-- participant or mentee instead of student or 'little fox'
+- participant or mentee (resztvevo) instead of student, neither 'green fox' or 'little fox'
 - mentor instead of teacher
-- owner = Lab.Coop, DiNa
 
 ## Domains
 ### Student Dismissal
