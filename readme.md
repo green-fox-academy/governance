@@ -4,6 +4,7 @@
 - Teach practical, up-to-date and marketable knowhow and mindset to prospect and practicing IT professionals. Provide access to talent and generate profit for the owners.
 - Make impact by helping people to change career or improve themsleves to the IT sector, to become wealthy and happy.
 - Education to build digital products.
+- Changed careers
 
 ## Roles
 
@@ -265,6 +266,9 @@ Green Fox employees can buy wokring tools that are neccessary for their daily wo
 ### Private company expanse
 Green Fox employees and Founders can invite clients / strategic partners for food and drink, and they have to provide the invoice for the Finance role in order to receive the money back. They have to pay in cash or by the comapany credit card.
 
+### Graduating participants
+GreenFox aims to enable the participants to conduct a career change, a new profession. GreenFox stricktly selects applicants. Paying for the course is not enough to enter to the school. GreenFox does not enable participants to graduate from the school and won't provide a certificate to those participants, who are unlikely to get a job in their new profession. 
+
 ## Domains
 ### Student Dismissal
 Student dismissal is the Domain of each Education Circles Lead Link, after conducting an advising process with the below roles:
@@ -275,6 +279,9 @@ Student dismissal is the Domain of each Education Circles Lead Link, after condu
 
 ## Circles
 ### Junior Education Circle (Tojás)
+Purpose:
+- Seamless career change to IT
+- Participants with jobs
 
 Accountabilities:
 - Reporting weekly about the development of the underperfoming students compared to the average
@@ -285,6 +292,10 @@ Accountabilities:
 - Engaging new mentors
 - Following up with graduated participants to ensure customer and participant happiness, to decrease fluctuation
 - Building alumni network
+
+Domains:
+- Course material
+- Student evaluation, certifying or dismissing
 
 ### Gawker Education Circle (Barbi)
 
