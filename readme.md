@@ -108,6 +108,8 @@ Accountabilities:
 - Keeping in touch with the delivering team during the project
 - Pursuing upsell opportunities
 - Handling sales pipeline
+- Pursuing upsell opportunities
+- Converting leads
 
 Domain: 
 - Negotiate about client contracts
