@@ -84,6 +84,8 @@ Purpose:
 - Perfect clients
 - Good impression made on clients
 - New business opportunities
+- Good business relations with other companies
+- Strong partnerships
 
 Accountabilities:
 - Building partnerships
