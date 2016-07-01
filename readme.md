@@ -78,16 +78,16 @@ Domains:
 
 Domains:
 
-### Sales (Barbi, Kristof, Petak)
+### Sales and Biz.Dev (Barbi, Kristof, Petak)
 Purpose:
 - Enough clients in the sales funnel
 - Perfect clients
 - Good impression made on clients
+- New business opportunities
 
 Accountabilities:
 - Building partnerships
 - Making new business opportunities
-- Handling sales pipeline
 - Generating leads
 
 Domains:
@@ -95,29 +95,20 @@ Domains:
 ### Sales account
 
 Purpose:
-- Converting leads into business
-- Keep customers happy
-- Convert clients into brand advocates
+- Converted leads
 
 Accountabilities:
-- Keep contacts alive after the first contact
-- Drive the sales process
-- Prepare the contracts in cooperation with the Legal role 
-- Manage project documentation 
-- Find the project manager and the project team when it’s necessary
-- Keep in touch with the delivering team during the project
+- Keeping contacts alive after the first contact
+- Driving clients through the sales process
+- Preparing the contracts in cooperation with the Legal role 
+- Managing project documentation 
+- Finding the project manager and the project team when it’s necessary
+- Keeping in touch with the delivering team during the project
 - Pursuing upsell opportunities
+- Handling sales pipeline
 
 Domain: 
 - Negotiate about client contracts
-
-### Biz.Dev. (Barbi, Kristof, Petak)
-Purpose:
-- New business opportunities
-
-Accountabilities:
-
-Domains:
 
 ### Lufthasna Project Coordinator (unfilled)
 Purpose: Lufthasna project started
@@ -159,7 +150,8 @@ Domains:
 
 ### Customer Happiness (Barbi)
 Purpose:
-- Make extraordinary happy customers
+- Happy customers
+- Brand advocate clients
 
 Accountabilities:
 - Fulfill the customer experience of GreenFox customers with the little details that really makes
