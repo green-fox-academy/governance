@@ -86,6 +86,7 @@ Purpose:
 - New business opportunities
 - Good business relations with other companies
 - Strong partnerships
+- Addig leads to CRM
 
 Accountabilities:
 - Building partnerships
@@ -110,6 +111,7 @@ Accountabilities:
 - Handling sales pipeline
 - Pursuing upsell opportunities
 - Converting leads
+- Setting up and maintaining CRM
 
 Domain: 
 - Negotiate about client contracts
