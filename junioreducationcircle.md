@@ -72,6 +72,15 @@
  - Facilitating pilot test teaching ocasions
  - Providing feedback about the candidate to @Team recruiter Role
 
+### Alumni Facilitator
+#### Purpose
+ - Happy and contributing alumni
+
+#### Accountability:
+ - Organising alumni events
+ - Tracking idvidual happiness and fit with the partner companies
+
+
 ### Volunteer mentor
 #### Purpose:
  - Personal experience for students
