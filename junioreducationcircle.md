@@ -78,7 +78,7 @@
 
 #### Accountability:
  - Organising alumni events
- - Tracking idvidual happiness and fit with the partner companies
+ - Tracking individual happiness and fit with the partner companies
 
 
 ### Volunteer mentor
