@@ -283,6 +283,9 @@ Student dismissal is the Domain of each Education Circles Lead Link, after condu
 ## Circles
 ### Junior Education Circle (Tojás)
 
+Purpose:
+ - Partner companies are hiring attendees 
+
 Accountabilities:
 - Reporting weekly about the development of the underperfoming students compared to the average
 - Developing a plan to help the underperforming students
