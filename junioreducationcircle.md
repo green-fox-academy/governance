@@ -52,7 +52,7 @@
 - Can make decisions about the thematics
 - Can make decisions about the teams
 
-### Mentor Recruiter
+### Mentor Recruiter (Tojas)
 #### Purpose:
  - Great new mentors in the team
 
@@ -69,7 +69,7 @@
  - Tracking individual happiness and fit with the partner companies
 
 
-### Volunteer mentor
+### Volunteer mentor 
 #### Purpose:
  - Personal experience for students
 
