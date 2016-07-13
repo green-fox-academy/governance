@@ -231,7 +231,7 @@ organise:
 ### Alumni Facilitator
 #### Purpose
  - Happy and contributing alumni
- - Minimal fluctuation in partner companies
+ - Minimal participant fluctuation in partner companies
 
 #### Accountability:
  - Organising alumni events
