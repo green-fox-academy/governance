@@ -245,7 +245,7 @@ organise:
 The LL may not exclude at least one representative of each owner from the @Board and Strategy role. 
 
 ### Greenfox Governance
-The governance is documented on GitHub in English: https://github.com/greenfox-academy/governance/
+The governance is documented on GlassFrog
 
 ### CRM
 Track all personal contacts in Prosperworks, including sales, student, teacher, event participant, business partner etc. contacts. Everybody, who has access to the CRM, must update it on a regular basis, if anything relevant has happened.
@@ -293,6 +293,9 @@ Student dismissal is the Domain of each Education Circles Lead Link, after condu
 
 ## Circles
 ### Junior Education Circle (Tojás)
+
+Purpose:
+ - Partner companies would hire participants according to market standard 
 
 Accountabilities:
 - Reporting weekly about the development of the underperfoming students compared to the average

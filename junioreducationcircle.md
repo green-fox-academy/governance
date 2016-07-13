@@ -52,7 +52,7 @@
 - Can make decisions about the thematics
 - Can make decisions about the teams
 
-### Mentor Recruiter
+### Mentor Recruiter (Tojas)
 #### Purpose:
  - Great new mentors in the team
 
@@ -60,7 +60,7 @@
  - Facilitating pilot test teaching ocasions
  - Providing feedback about the candidate to @Team recruiter Role
 
-### Volunteer mentor
+### Volunteer mentor 
 #### Purpose:
  - Personal experience for students
 
