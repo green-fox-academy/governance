@@ -213,6 +213,7 @@ Accountabilities:
 - Telling experience to new education project leaders
 
 ### Students Recruitment Assistant
+--- 
 
 ### Corporate culture builder
 
@@ -306,4 +307,5 @@ Accountabilities:
 - Engaging new mentors
 
 ### Gawker Education Circle (Barbi)
+
 
